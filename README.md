@@ -26,11 +26,13 @@ in deze opdracht heb ik geleerd met events werken, heb hier een pickup script en
 # Opdracht 5 (Debugging)
 https://github.com/ghostbusterbob/TowerDefense2D
 
+hier heb ik geleerd goed en krachtig bugs te reporten, voor eigen overzichtelijkheid en dat ik later verder kan gaan met de bugs oplossen
 
 # Opdracht 6
 Scripts: https://github.com/ghostbusterbob/Space48/tree/main/Assets/Scripts
 
 Ik heb ik single responsibilty geleerd en don't repeat yourself
+
 
 
 
