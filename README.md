@@ -28,10 +28,16 @@ https://github.com/ghostbusterbob/TowerDefense2D
 
 hier heb ik geleerd goed en krachtig bugs te reporten, voor eigen overzichtelijkheid en dat ik later verder kan gaan met de bugs oplossen
 
-# Opdracht 6
+# Opdracht 6/7
 Scripts: https://github.com/ghostbusterbob/Space48/tree/main/Assets/Scripts
 
 Ik heb ik single responsibilty geleerd en don't repeat yourself
+
+# Opdracht 8 
+![GIFINHER](https://github.com/user-attachments/assets/f675f5ab-b7aa-4c4b-82d4-d4354b6e9eb7)
+
+Scripts: https://github.com/ghostbusterbob/M5Prog/tree/main/Assets/Lessen/Les5/Scripts
+
 
 
 
