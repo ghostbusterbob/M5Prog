@@ -17,3 +17,8 @@ https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/Les1/Opdracht%2
 ![GIF3](https://github.com/user-attachments/assets/f5fe7900-b082-4765-a972-bb71ce3dd79d)
 https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/pickup.cs
 
+# Opdracht 6
+Scripts: https://github.com/ghostbusterbob/Space48/tree/main/Assets/Scripts
+Ik heb ik single responsibilty geleerd en don't repeat yourself
+
+
