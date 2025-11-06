@@ -19,6 +19,8 @@ https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/pickup.cs
 
 # Opdracht 6
 Scripts: https://github.com/ghostbusterbob/Space48/tree/main/Assets/Scripts
+
 Ik heb ik single responsibilty geleerd en don't repeat yourself
+
 
 
