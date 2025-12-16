@@ -39,6 +39,14 @@ Ik heb ik single responsibilty geleerd en don't repeat yourself
 Scripts: https://github.com/ghostbusterbob/M5Prog/tree/main/Assets/Lessen/Les5/Scripts
 
 # M6
+# Les 1 - Code Conventies
+Scripts: 
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/InventoryItem.cs
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/InventorySystem.cs
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Keycard.cs
+https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Weapon.cs
+
+
 ## Class Diagram
 This diagram shows the main systems used in the game.
 
@@ -192,4 +200,5 @@ classDiagram
     WaveController --> Spawner
     Spawner --> WaveController
     WaveController --> WaveSet
+
 
