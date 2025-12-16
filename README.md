@@ -202,6 +202,16 @@ classDiagram
     WaveController --> Spawner
     Spawner --> WaveController
     WaveController --> WaveSet
+```
+# Les 3 - Data Structures
+Scripts: 
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Opdracht3/Inventory.cs
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Opdracht3/Item.cs
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Opdracht3/ItemStats.cs
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Opdracht3/ItemType.cs
 
+Assets: 
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Opdracht3/Armor.asset
+https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Opdracht3/Zwaard.asset
 
-
+Ik heb deze opdracht een zwaard en armor met stats toegevoegd
