@@ -46,6 +46,8 @@ https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/InventorySys
 https://github.com/ghostbusterbob/M5Prog/blob/main/Assets/Lessen/M6/Keycard.cs
 https://github.com/BadTimeForU/GD-M5-PROG/blob/main/Assets/Scripts/m6/Weapon.cs
 
+Ik heb hier geprobeerd om goede code structuur te gebruiken en toe te passen
+
 
 ## Class Diagram
 This diagram shows the main systems used in the game.
@@ -200,5 +202,6 @@ classDiagram
     WaveController --> Spawner
     Spawner --> WaveController
     WaveController --> WaveSet
+
 
 
